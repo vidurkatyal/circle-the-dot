@@ -1,6 +1,6 @@
 #include <cstdio>
 #include<dos.h>
-# include <time.h> //to get system time through time_t
+#include <time.h> //to get system time through time_t
 #include <iostream>
 #include <cstdlib>
 #include <cstring>
